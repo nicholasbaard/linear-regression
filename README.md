@@ -1,7 +1,7 @@
 # Linear Regression from First Principles
 
 This repository contains a basic implementation of linear regression from first principles in Python. 
-The implementation includes feature improvement through minmax scaling/standardization and L@ regularization in the gradient descent function.
+The implementation includes feature improvement through minmax scaling/standardization and L2 regularization in the gradient descent function.
 
 ## Features
 
