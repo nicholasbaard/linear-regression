@@ -16,7 +16,7 @@ The implementation includes feature improvement through minmax scaling/standardi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/linear-regression-from-scratch.git
+git clone https://github.com/nicholasbaard/linear-regression.git
 ```
 
 2. Install the required dependencies:
