@@ -10,7 +10,7 @@ def compute_cost(X:np.array, y:np.array, theta:np.array):
     return J
 
 # Gradient descent function
-def gradient_descent(X:np.array, y:np.array, theta:np.array, alpha:float=0.01, eps=0.0001, lmbda=0.001):
+def gradient_descent(X:np.array, y:np.array, theta:np.array, alpha:float=0.01, eps:float=0.0001, lmbda:float=0.001):
     m = len(y)
     cost_history = []
     theta_old = np.zeros_like(theta)
